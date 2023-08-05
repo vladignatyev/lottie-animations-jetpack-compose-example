@@ -1,4 +1,5 @@
-# About
+# Lottie Animations in Jetpack Compose for Android
+## Sample code and full tutorial available
 This repository contains example project to showcase the usage of Lottie animations in Jetpack Compose application for Android.
 
 Check out the full guide: [Lottie Animations in Jetpack Compose for Android](https://medium.com/@v_ignatyev/lottie-animations-in-jetpack-compose-for-android-5fdb2534220f)
